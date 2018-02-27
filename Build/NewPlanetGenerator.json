@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "NewPlanetGenerator.data.unityweb",
+"asmCodeUrl": "NewPlanetGenerator.asm.code.unityweb",
+"asmMemoryUrl": "NewPlanetGenerator.asm.memory.unityweb",
+"asmFrameworkUrl": "NewPlanetGenerator.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
